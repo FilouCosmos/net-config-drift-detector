@@ -5,6 +5,7 @@ Un outil de comparaison conçu pour identifier les dérives de configuration ("C
 ## Fonctionnalités :
 - Connexion SSH directe aux équipements Cisco, Juniper, etc., via `netmiko`.
 - Comparaison instantanée et surbrillance des différences (ajouts en vert, retraits en rouge) grâce à `colorama`.
+
 - Détection proactive des modifications "out-of-band" non documentées.
 
 ## Installation :

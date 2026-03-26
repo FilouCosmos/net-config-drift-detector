@@ -63,4 +63,4 @@ if __name__ == "__main__":
                     else:
                         print(line)
             else:
-                print("\n[OK] Configuration conforme a la baseline.")
+                print("\n[OK] Configuration conform a la baseline.")
