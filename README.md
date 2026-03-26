@@ -4,7 +4,7 @@ Dans l'idéal, toute modification réseau passe par un pipeline d'Infrastructure
 
 Ce script se connecte directement aux équipements réseaux via SSH (Cisco, Juniper, Arista...) en utilisant `netmiko`, extrait la configuration en cours d'exécution (`running-config`), et la compare à un fichier de référence (`golden_config.txt`) pour repérer les ajouts ou suppressions non documentés.
 
-## 🏗️ Architecture d'Audit Réseau
+##  Architecture d'Audit Réseau
 
 ```mermaid
 flowchart TD
