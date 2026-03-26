@@ -13,7 +13,7 @@ TARGET_DEVICE = {
     'secret': 'EnablePassword123!',
 }
 
-# Codes couleurs ANSI pour le terminal
+# Codes couleurs ANSI por le terminal
 GREEN = '\033[92m'
 RED = '\033[91m'
 RESET = '\033[0m'
