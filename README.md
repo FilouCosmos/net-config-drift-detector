@@ -25,7 +25,7 @@ Format Unifié : Génère des rapports de différences standardisés, parfaits p
 
 # Installation
 ```Bash
-git clone [https://github.com/VOTRE_USER/net-config-drift-detector.git](https://github.com/VOTRE_USER/net-config-drift-detector.git)
+git clone https://github.com/FilouCosmos/net-config-drift-detector.git
 cd net-config-drift-detector
 pip install -r requirements.txt
 ```
